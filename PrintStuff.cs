@@ -10,6 +10,8 @@ namespace testConsoleHilton2
 {
     internal class PrintStuff
     {
+        public int blah = 0;
+
         private string language;
         public PrintStuff ()
         {
